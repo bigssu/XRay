@@ -296,6 +296,38 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5089440122003365677, guid: 62f4a4fe87fcff348ab7ed77f41707a3, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5089440122003365677, guid: 62f4a4fe87fcff348ab7ed77f41707a3, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5089440122003365677, guid: 62f4a4fe87fcff348ab7ed77f41707a3, type: 3}
+      propertyPath: m_Positions.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5089440122003365677, guid: 62f4a4fe87fcff348ab7ed77f41707a3, type: 3}
+      propertyPath: m_Parameters.widthMultiplier
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5089440122003365677, guid: 62f4a4fe87fcff348ab7ed77f41707a3, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5089440122003365677, guid: 62f4a4fe87fcff348ab7ed77f41707a3, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[1].time
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5089440122003365677, guid: 62f4a4fe87fcff348ab7ed77f41707a3, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[0].value
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5089440122003365677, guid: 62f4a4fe87fcff348ab7ed77f41707a3, type: 3}
+      propertyPath: m_Parameters.widthCurve.m_Curve.Array.data[1].value
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62f4a4fe87fcff348ab7ed77f41707a3, type: 3}
 --- !u!1 &519420028
